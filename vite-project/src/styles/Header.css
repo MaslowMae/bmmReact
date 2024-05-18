@@ -1,0 +1,18 @@
+.header {
+    background: rgb(43, 43, 44);
+    height: 106px;
+    font-size: 200px;
+    border-radius: 5px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+  }
+  
+  @import "~bootstrap/scss/bootstrap";
+
+  

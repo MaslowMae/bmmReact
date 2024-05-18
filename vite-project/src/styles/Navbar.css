@@ -1,0 +1,23 @@
+.navbar {
+    background: #8cddcc;
+    height: 50px;
+    justify-content: flex-end;
+    border-radius: 5px;
+  }
+  
+  .navbar a {
+    color: rgb(35, 134, 143);
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin: 5px;
+    line-height: 3;
+    border-radius: 5px;
+   
+  }
+  
+  .navItem {
+    margin-right: 10px;
+    }
+
+    @import "~bootstrap/scss/bootstrap";
+  
