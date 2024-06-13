@@ -10,7 +10,7 @@ export default defineConfig({
       '~bootstrap': path.resolve(__dirname, 'node_modules/bootstrap'),
     }
   },
-  server: { // Add the missing comma here
+  server: { 
     port: 3000,
     open: true,
     hot: true
